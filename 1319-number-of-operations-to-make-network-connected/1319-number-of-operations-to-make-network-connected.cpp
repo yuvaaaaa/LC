@@ -40,8 +40,6 @@ public:
         for (int i = 0; i < connections.size(); i++) {
             uni(par, rank, connections[i][0], connections[i][1]);
         }
-        if (connections.size() < n - 1)
-            return -1;
         unordered_set<int> st;
         for (int i = 0; i < n; i++) {
             st.insert(search(par, par[i]));
