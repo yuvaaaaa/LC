@@ -17,6 +17,18 @@ public:
         return count;
     } 
 
+    void dfs(unordered_map<int, vector<int>> &adj ,vector<bool>&vis , stack<int>&st , int i ){
+
+        for(auto &it :adj[i]){
+            vis[i]=true;
+            if(vis[it]== false){
+                dfs(adj,vis,st,it);
+            }
+        }
+        st.push(i);
+        return ;
+    }
+
     bool canFinish(int numCourses, vector<vector<int>>& pre) {
         int n = numCourses;
 
@@ -26,23 +38,44 @@ public:
             adj[pre[i][1]].push_back(pre[i][0]);
         }
 
-        vector<int> indeg(n, 0);
-
+        vector<bool> vis(n, false);
+        vector<int>indeg(n,0);
         for (auto& it : adj) {
             for (auto x : it.second) {
                 indeg[x]++;
             }
         }
 
-        queue<int> q;
+        // queue<int> q;
+        stack<int>st;
         for (int i = 0; i < n; i++) {
             if (indeg[i] == 0)
-                q.push(i);
+                dfs(adj,vis,st,i);
         }
 
-        int a = bfs(adj, indeg, q);
+        // int a = bfs(adj, indeg, q);
 
-        if (a==n) return true ;
-        return false ;
+        // if (a==n) return true ;
+        // return false ;
+
+        unordered_map<int,int>dt;
+        int time =0;
+
+        while(!st.empty()){
+            int curr = st.top();
+            st.pop();
+            dt[curr] = time ;
+            time ++ ;
+        }
+
+        for( int i=0;i<n;i++){
+            for(auto &it : adj[i]){
+                if(dt[i]>=dt[it]){
+                    return false;
+                }
+            }
+        }
+        return true;
+
     }
 };
