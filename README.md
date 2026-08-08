@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
+| [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
+| [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
 | [0930-binary-subarrays-with-sum](https://github.com/yuvaaaaa/LC/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
+| [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/yuvaaaaa/LC/tree/master/0930-binary-subarrays-with-sum) |
+| [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvaaaaa/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/yuvaaaaa/LC/tree/master/0076-minimum-window-substring) |
+| [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvaaaaa/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvaaaaa/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
+| [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
@@ -187,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
+## Sorting
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
