@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yuvaaaaa/LC/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yuvaaaaa/LC/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -204,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -212,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
