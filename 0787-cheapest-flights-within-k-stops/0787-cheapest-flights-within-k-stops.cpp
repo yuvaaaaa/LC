@@ -11,16 +11,17 @@ public:
 
         priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>>
             pq;
-        vector<vector<int>> price(n, vector<int>(k + 2, INT_MAX));
+            
+        vector<int>price(n, INT_MAX);
 
-        price[src][0] = 0;
+        price[src] = 0;
 
         pq.push({0, src, 0});
 
         while (!pq.empty()) {
-            int d = pq.top()[0];
+            int d = pq.top()[2];
             int u = pq.top()[1];
-            int stop = pq.top()[2];
+            int stop = pq.top()[0];
 
             pq.pop();
 
@@ -34,22 +35,15 @@ public:
 
                 int newstop = stop + 1;
 
-                if (dt + d < price[v][newstop]) {
-                    price[v][newstop] = d + dt;
-                    pq.push({price[v][newstop], v, newstop});
+                if (dt + d < price[v]) {
+                    price[v]= d + dt;
+                    pq.push({newstop,v,price[v] });
                 }
             }
         }
 
-        int ans = INT_MAX;
 
-        for (int i = 0; i <= k + 1; i++) {
-            ans = min(ans, price[dst][i]);
-        }
-
-        if (ans == INT_MAX){
-            return -1;
-            }
-        return ans;
+        if(price[dst]==INT_MAX) return -1;
+        return price[dst];
     }
 };
