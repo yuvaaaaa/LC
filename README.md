@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -210,11 +214,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
