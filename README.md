@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yuvaaaaa/LC/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvaaaaa/LC/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/yuvaaaaa/LC/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
