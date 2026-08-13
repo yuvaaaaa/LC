@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/yuvaaaaa/LC/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yuvaaaaa/LC/tree/master/1020-number-of-enclaves) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -224,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -257,4 +261,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/yuvaaaaa/LC/tree/master/2360-longest-cycle-in-a-graph) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
