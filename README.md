@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/yuvaaaaa/LC/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/yuvaaaaa/LC/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
+| [1192-critical-connections-in-a-network](https://github.com/yuvaaaaa/LC/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/yuvaaaaa/LC/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Matrix
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/yuvaaaaa/LC/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/yuvaaaaa/LC/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
