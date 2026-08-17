@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/yuvaaaaa/LC/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/yuvaaaaa/LC/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/yuvaaaaa/LC/tree/master/0685-redundant-connection-ii) |
 | [0886-possible-bipartition](https://github.com/yuvaaaaa/LC/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/yuvaaaaa/LC/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yuvaaaaa/LC/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/yuvaaaaa/LC/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/yuvaaaaa/LC/tree/master/0841-keys-and-rooms) |
