@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yuvaaaaa/LC/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvaaaaa/LC/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/0662-maximum-width-of-binary-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yuvaaaaa/LC/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvaaaaa/LC/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/yuvaaaaa/LC/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvaaaaa/LC/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/yuvaaaaa/LC/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yuvaaaaa/LC/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/yuvaaaaa/LC/tree/master/0685-redundant-connection-ii) |
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuvaaaaa/LC/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/yuvaaaaa/LC/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/yuvaaaaa/LC/tree/master/0994-rotting-oranges) |
@@ -213,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/yuvaaaaa/LC/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvaaaaa/LC/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2360-longest-cycle-in-a-graph](https://github.com/yuvaaaaa/LC/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yuvaaaaa/LC/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/yuvaaaaa/LC/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Graph Coloring
 |  |
@@ -281,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
