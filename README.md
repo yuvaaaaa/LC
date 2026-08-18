@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yuvaaaaa/LC/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/yuvaaaaa/LC/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/yuvaaaaa/LC/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yuvaaaaa/LC/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/yuvaaaaa/LC/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yuvaaaaa/LC/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/yuvaaaaa/LC/tree/master/2360-longest-cycle-in-a-graph) |
 ## Matrix
 |  |
@@ -252,11 +254,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yuvaaaaa/LC/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yuvaaaaa/LC/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yuvaaaaa/LC/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## K Shortest Path
+|  |
+| ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/yuvaaaaa/LC/tree/master/2045-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
