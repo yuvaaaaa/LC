@@ -84,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yuvaaaaa/LC/tree/master/0222-count-complete-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yuvaaaaa/LC/tree/master/0222-count-complete-tree-nodes) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/yuvaaaaa/LC/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1631-path-with-minimum-effort](https://github.com/yuvaaaaa/LC/tree/master/1631-path-with-minimum-effort) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvaaaaa/LC/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/yuvaaaaa/LC/tree/master/0912-sort-an-array) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvaaaaa/LC/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -319,5 +324,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yuvaaaaa/LC/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
