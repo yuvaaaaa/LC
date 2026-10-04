@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yuvaaaaa/LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yuvaaaaa/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yuvaaaaa/LC/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/yuvaaaaa/LC/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yuvaaaaa/LC/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/yuvaaaaa/LC/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/yuvaaaaa/LC/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/yuvaaaaa/LC/tree/master/0678-valid-parenthesis-string) |
 | [1202-smallest-string-with-swaps](https://github.com/yuvaaaaa/LC/tree/master/1202-smallest-string-with-swaps) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvaaaaa/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvaaaaa/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/yuvaaaaa/LC/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvaaaaa/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvaaaaa/LC/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Design
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yuvaaaaa/LC/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yuvaaaaa/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/yuvaaaaa/LC/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/yuvaaaaa/LC/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yuvaaaaa/LC/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yuvaaaaa/LC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/yuvaaaaa/LC/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -346,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvaaaaa/LC/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yuvaaaaa/LC/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
